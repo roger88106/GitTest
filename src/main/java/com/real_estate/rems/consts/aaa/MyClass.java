@@ -4,6 +4,8 @@ public class MyClass{
     String a = "aaa";
     String b = "bbb";
 
-    String c = "cccbbbaaa"; //nini01   
+    String c = "cccbbbaaa"; //nini01
+
+    String d = "ddd"   
 
 }
