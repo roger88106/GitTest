@@ -8,4 +8,6 @@ public class MyClass{
 
     String d = "ddd"   
 
+    String w = "www"
+
 }
