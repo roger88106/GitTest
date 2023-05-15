@@ -11,6 +11,7 @@ public class RemsApplication {
 		//分之1
 		//123
 		String HOLO = "my wife";
+		String LOLI = "DAISUKI";
 	}
 
 }
