@@ -10,6 +10,7 @@ public class RemsApplication {
 		SpringApplication.run(RemsApplication.class, args);
 		//分之1
 		//123
+		String HOLO = "my wife";
 	}
 
 }
