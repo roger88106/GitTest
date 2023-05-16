@@ -12,4 +12,8 @@ public class MyClass{
 
     String q = "qqq";
     int abc = 450;
+
+    int bbb = 50;   //0516下午新增
+    String aaa = "eee"  //0516下午新增
+    
 }
